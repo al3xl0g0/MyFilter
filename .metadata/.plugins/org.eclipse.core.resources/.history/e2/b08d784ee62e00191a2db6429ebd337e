@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="login.css">
+</head>
+<body>
+<div class="login">
+  <div class="login-triangle"></div>
+  
+  <h2 class="login-header">Log in</h2>
+
+  <form class="login-container">
+    <p><input type="email" placeholder="Name"></p>
+    
+    <select>
+   <option value="2">User<option>       
+   <option value="2">Company</option>
+   <option value="21">Admin</option> 
+   </select> 
+    
+    <p><input type="password" placeholder="Password"></p>
+    <p><input type="submit" value="Log in"></p>
+  </form>
+</div>
+</body>
+</html>
