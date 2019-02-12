@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/alexanderlogovinsky/Projects/MyFIlter/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+864444421.index
+1048214733.index
+3112427664.index
+891441627.index
+2402434536.index
