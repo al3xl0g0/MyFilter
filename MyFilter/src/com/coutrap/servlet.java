@@ -56,7 +56,7 @@ public class servlet extends HttpServlet {
     	try {
 			CouponClientFacade facade  = sys.login(user, password, Ctype);
 			if (facade != null) {
-				session.setAttribute("clientFacade", facade);
+				session.setAttribute("CouponClientFacade", facade);
 			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
